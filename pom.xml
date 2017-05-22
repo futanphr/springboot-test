@@ -4,4 +4,12 @@
   <artifactId>springboot-test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build/>
+  
+  <!-- https://mvnrepository.com/artifact/org.mybatis/mybatis -->
+<dependency>
+    <groupId>org.mybatis</groupId>
+    <artifactId>mybatis</artifactId>
+    <version>3.4.1</version>
+</dependency>
+  
 </project>
